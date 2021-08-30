@@ -1,0 +1,34 @@
+body{
+	margin: 0;
+	padding: 0;
+
+}
+a{
+	text-decoration: none;
+}
+ul{
+	margin: 0;
+	padding: 0;
+}
+
+/*topbar start here*/
+.topbar{
+	background-color: #FFF1E5;
+	padding: 10px 0;
+}
+.topbar-middle{
+	width: 90%;
+	margin: auto;
+	display: flex;
+}
+.logo{
+	display: block;
+	margin: auto;
+}
+
+.logo-right{
+	display: block;
+	margin-left: auto;
+}
+
+/*topbar end here*/
